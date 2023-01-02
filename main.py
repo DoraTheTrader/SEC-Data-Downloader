@@ -1,7 +1,7 @@
 import requests
 
 
-api_key = '87e177c8e539d4d1e2fe86f172233096'
+api_key = 'your api key'
 
 company = ['RJF', 'WY', 'AVB']
 
